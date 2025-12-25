@@ -1,0 +1,48 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "EVE SATE Signal",
+  "description": "A normalized representation of value signals in the EVE framework.",
+  "type": "object",
+  "properties": {
+    "skill": {
+      "type": "number",
+      "minimum": 0,
+      "description": "Applied capability or expertise."
+    },
+    "attention": {
+      "type": "number",
+      "minimum": 0,
+      "description": "Voluntary focus or care."
+    },
+    "time": {
+      "type": "number",
+      "minimum": 0,
+      "description": "Time invested voluntarily."
+    },
+    "ecology": {
+      "type": "number",
+      "minimum": 0,
+      "description": "Positive ecological or social impact."
+    },
+    "context": {
+      "type": "string",
+      "description": "Human-readable description of the contribution."
+    },
+    "verification": {
+      "type": "string",
+      "enum": [
+        "self",
+        "peer",
+        "two-sided",
+        "audit",
+        "system"
+      ],
+      "description": "How the signal was verified."
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time"
+    }
+  },
+  "required": ["context", "timestamp"]
+}
