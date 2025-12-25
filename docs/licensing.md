@@ -26,8 +26,7 @@ The framework is:
 - forkable
 - non-exclusive
 
-License:
-**Creative Commons Attribution (CC BY 4.0)**
+**License: Creative Commons Attribution (CC BY 4.0)**
 
 This allows:
 - commercial and non-commercial use
