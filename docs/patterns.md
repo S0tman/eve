@@ -151,11 +151,11 @@ Civic systems, public services, trust-sensitive domains
 
 As systems grow, responsibility tends to diffuse:
 
-<li>decisions are abstracted into workflows</li>
+- decisions are abstracted into workflows
 
-<li>outcomes are attributed to “the system”</li>
+- outcomes are attributed to “the system”
 
-<li>accountability erodes under scale, speed, and automation</li>
+- accountability erodes under scale, speed, and automation
 
 
 
@@ -177,11 +177,11 @@ The goal is not control — it’s clarity.
 
 Introduce an Explicit Responsibility Anchor at critical moments in a system:
 
-<li>clearly identify who owns a decision, artifact, or outcome</li>
+- clearly identify who owns a decision, artifact, or outcome
 
-<li>keep that ownership visible over time</li>
+- keep that ownership visible over time
 
-<li>make handoffs explicit, not implicit</li>
+- make handoffs explicit, not implicit
 
 
 
@@ -191,16 +191,16 @@ The anchor lives in the interface, not in policy.
 **Design Principles**
 
 
-<li>Named ownership</li>
+- Named ownership
 Someone (or a defined role) is visible and attributable.
 
-<li>Durable over time</li>
+- Durable over time
 Ownership persists beyond creation, launch, or automation.
 
-<li>Survives scale and pressure</li>
+- Survives scale and pressure
 Responsibility does not disappear when volume increases.
 
-<li>No behavioral enforcement</li>
+- No behavioral enforcement
 
 
 The system does not punish or compel — it reveals.
@@ -209,15 +209,15 @@ The system does not punish or compel — it reveals.
 **Where this applies**
 
 
-<li>AI-generated content and media</li>
+- AI-generated content and media
 
-<li>Automated decision systems</li>
+- Automated decision systems
 
-<li>Shared dashboards and reporting tools</li>
+- Shared dashboards and reporting tools
 
-<li>Open platforms and marketplaces</li>
+- Open platforms and marketplaces
 
-<li>Governance-adjacent systems without central authority</li>
+- Governance-adjacent systems without central authority
 
 <br>
 
@@ -227,9 +227,9 @@ The system does not punish or compel — it reveals.
 This pattern aligns with (but does not mandate):
 
 
-<li><a href="https://contentauthenticity.org/">Content Authenticity Initiative (CAI)</a></li>
+- <a href="https://contentauthenticity.org/">Content Authenticity Initiative (CAI)</a>
 
-<li><a href="https://c2pa.org/">C2PA (Coalition for Content Provenance and Authenticity)</a></li>
+- <a href="https://c2pa.org/">C2PA (Coalition for Content Provenance and Authenticity)</a>
 
 <br>
 
@@ -241,11 +241,11 @@ These provide technical mechanisms for attribution and provenance that can act a
 
 **Why this is not governance**
 
-<li>It does not define rules, policies, or enforcement</li>
+- It does not define rules, policies, or enforcement
 
-<li>It does not assign moral or legal judgment</li>
+- It does not assign moral or legal judgment
 
-<li>It does not replace institutions or accountability structures</li>
+- It does not replace institutions or accountability structures
 <br>
 This pattern answers one question only:
 
@@ -256,13 +256,13 @@ This pattern answers one question only:
 **Failure modes to watch for**
 
 
-<li>Anonymous defaults</li>
+- Anonymous defaults
 
-<li>Responsibility hidden behind automation</li>
+- Responsibility hidden behind automation
 
-<li>Ownership erased by aggregation</li>
+- Ownership erased by aggregation
 
-<li>“The system decided” narratives</li>
+- “The system decided” narratives
 
 ---
 
@@ -271,11 +271,11 @@ This pattern answers one question only:
 Explicit Responsibility Anchors support:
 
 
-<li>Authorship — clear provenance and intent</li>
+- Authorship — clear provenance and intent
 
-<li>Trust — visible ownership under pressure</li>
+- Trust — visible ownership under pressure
 
-<li>Participation — accountability without coercion</li>
+- Participation — accountability without coercion
 
 
 They help systems scale without dissolving meaning.
