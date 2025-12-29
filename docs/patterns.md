@@ -139,3 +139,66 @@ Opt-in reporting, voluntary check-ins
 
 Examples:
 Civic systems, public services, trust-sensitive domains
+
+---
+
+## Explicit Responsibility Anchor
+
+**Preserving human accountability as systems scale.**
+
+Problem
+As systems scale, responsibility tends to diffuse. Incentives reward activity, engagement, and output — while ownership becomes abstract ('the system,' 'the process,' 'the platform'). When outcomes degrade or harm occurs, no single person remains clearly accountable. This erosion undermines trust, even when systems are technically effective.
+
+Core Insight
+
+Responsibility cannot be automated or delegated to systems. It remains irreducibly human. Systems should not attempt to be responsible. They should be designed to prevent responsibility from disappearing as scale, incentives, and abstraction increase.
+
+Solution
+
+Design systems so that: a named human owner is always associated with meaningful intent; ownership persists across time, not just at creation; responsibility cannot quietly dissolve into abstraction; when things become ambiguous or costly, someone is still clearly accountable. The role of the system is to make responsibility visible, durable, and hard to evade — not to replace it.
+
+Implementation Signals
+
+1. Explicit ownership fields tied to intent or decisions
+
+2. Time-aware responsibility (who owned what, and when)
+
+3. Provenance and authorship metadata attached to outputs
+
+4. Clear escalation paths that preserve named accountability
+
+5. No 'system-owned' decisions without a human sponsor
+
+When to use
+
+AI-assisted creation or decision systems, governance or moderation platforms, high-scale content or automation pipelines, any system where trust matters more than throughput
+
+Anti-Patterns
+
+1. 'The system decided'
+
+2. Anonymous or rotating ownership
+
+3. Engagement metrics substituting for accountability
+
+4. Responsibility disappearing at scale boundaries
+
+5. Provenance without a responsible human owner
+
+**Reference Implementations (Non-Prescriptive)**
+
+Some open standards demonstrate how responsibility and authorship can be made legible in digital systems. These are examples, not requirements.
+
+Content Authenticity Initiative (CAI)
+Learn more here: https://contentauthenticity.org/
+
+Shows how attribution and intent can travel with content across systems.
+
+C2PA (Coalition for Content Provenance and Authenticity)
+Learn more here: https://c2pa.org/
+
+Defines open technical specifications for cryptographically verifiable provenance metadata.
+
+**Boundary**
+
+These mechanisms help reduce plausible deniability and support human accountability — but responsibility itself always remains human.
