@@ -286,3 +286,45 @@ They help systems scale without dissolving meaning.
 **Boundary**
 
 These mechanisms help reduce plausible deniability and support human accountability — but responsibility itself always remains human.
+
+---
+
+## Pattern: Delegated Labor / Retained Judgment
+
+**Delegate work to AI systems, but keep judgment with the human.**
+
+
+## Problem
+
+AI systems make it easy to delegate work, but human judgment is often kept only in the builder's head. When intent is not written down and kept over time, systems start guessing what matters. This leads to confusion about responsibility and loss of control.
+
+
+## Pattern
+
+Delegate the work to AI systems, but keep judgment with the human.
+
+- The human clearly writes down what matters and what must not change.
+- The system does the work but does not change these decisions.
+- Intent is remembered and reused, but never forced.
+
+
+## When to Use
+
+- When using AI for coding, writing, design, or planning
+- When work is done over many steps or sessions
+- When responsibility must stay with the human
+- When systems act on your behalf
+
+
+## Failure Modes
+
+- Intent stays only in prompts or conversations
+- Systems guess what matters instead of asking
+- Builders skip review because things move too fast
+- Intent slowly turns into rules or enforcement
+- People say "the AI decided" instead of taking responsibility
+
+
+## Key Principle
+
+**Delegate labor freely. Retain judgment on purpose.**
