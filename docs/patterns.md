@@ -328,3 +328,6 @@ Delegate the work to AI systems, but keep judgment with the human.
 ## Key Principle
 
 **Delegate labor freely. Retain judgment on purpose.**
+
+Examples:
+IRP v0 (Intent Reference Plane). Under development, See https://tinyurl.com/y2raf6b4 for more info.
